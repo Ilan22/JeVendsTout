@@ -1,0 +1,22 @@
+[
+  {"nom": "Appareils électroménagers"},
+  {"nom": "Articles pour bébés et enfants"},
+  {"nom": "Bijoux et montres"},
+  {"nom": "Chaussures"},
+  {"nom": "Électronique grand public"},
+  {"nom": "Équipement électronique professionnel"},
+  {"nom": "Équipements de plein air"},
+  {"nom": "Fournitures de bureau"},
+  {"nom": "Instruments de musique"},
+  {"nom": "Jouets et jeux"},
+  {"nom": "Livres et publications"},
+  {"nom": "Matériel de jardinage"},
+  {"nom": "Matériel de sport et de fitness"},
+  {"nom": "Meubles et décoration d'intérieur"},
+  {"nom": "Ordinateurs et périphériques"},
+  {"nom": "Outils et équipements de bricolage"},
+  {"nom": "Produits alimentaires et épicerie"},
+  {"nom": "Produits de beauté et de soins personnels"},
+  {"nom": "Produits de santé et de bien-être"},
+  {"nom": "Vêtements et accessoires"}
+]
